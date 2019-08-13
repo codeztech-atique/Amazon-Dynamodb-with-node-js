@@ -1,0 +1,15 @@
+{
+  "name": "dynamodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atique ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.504.0",
+    "dotenv": "^8.0.0"
+  }
+}
