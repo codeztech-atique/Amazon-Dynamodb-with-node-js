@@ -183,9 +183,9 @@ async function deleteDatafromDatabase() {  // delete method fetch data from dyna
 } 
 
 
-// insertDataintoDatabase();  //Insert data into dynamodb
+insertDataintoDatabase();  //Insert data into dynamodb
 // fetchDatafromDatabase1(); // Scan method fetch data from dynamodb
 // fetchDatafromDatabase2(); // Get method fetch data from dynamodb
 // fetchDatafromDatabase3(); // Query method fetch data from dynamodb
-updateDatafromDatabase(); // update data from the table
+//updateDatafromDatabase(); // update data from the table
 // deleteDatafromDatabase(); // delete data from perticular table
